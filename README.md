@@ -1,1 +1,3 @@
 # RestAssuredAPIFramework
+
+## About Framework Structure
