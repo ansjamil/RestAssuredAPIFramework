@@ -32,5 +32,6 @@ This Package contains all the functions that need to be used as utility function
 ## Step Definitions
 This Package contains all the step definitions necessary to build the BDD Cucumber approach
 
-## 
+## TDD
+This package contains all the functions necessary to run the tests in TDD 
 
